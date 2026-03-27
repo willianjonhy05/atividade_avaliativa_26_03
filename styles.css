@@ -86,6 +86,16 @@ aside { flex: 1 ; }
 
 .card a { color: var(--piauí-escuro); }
 
+.card img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 12px 0 16px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
 .card a:hover { color: var(--piauí-azul); }
 
 footer, header {
