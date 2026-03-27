@@ -20,7 +20,8 @@ header p {
 
 footer p {
     padding: 15px;
-    font-size: 1.5rem;
+    font-size: 1rem;
+    font-family: "PT Sans", sans-serif; 
 }
 
 body {
@@ -119,11 +120,12 @@ footer .footer-block {
     gap: 10px;
 }
 
-footer .city-name {
+/* footer .city-name {
     font-size: 1rem;
     font-weight: bold;
     color: var(--piauí-branco);
-}
+    font-family: "PT Sans", sans-serif;
+} */
 
 footer .social-buttons .social-btn {
     display: inline-block;
@@ -133,6 +135,7 @@ footer .social-buttons .social-btn {
     background-color: rgba(255, 255, 255, 0.12);
     border: 1px solid rgba(255, 255, 255, 0.3);
     border-radius: 8px;
+    font-family: "PT Sans", sans-serif;
 }
 
 footer .social-buttons .social-btn:hover {
@@ -149,6 +152,7 @@ footer .back-to-top {
     font-size: 0.95rem;
     cursor: pointer;
     font-weight: bold;
+    font-family: "PT Sans", sans-serif;
 }
 
 footer .back-to-top:hover {
