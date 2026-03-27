@@ -77,9 +77,9 @@ aside { flex: 1 ; }
 
 .card {
     background-color: var(--piauí-branco);
-    border: 2px solid var(--piauí-amarelo);
+    border: 5px solid var(--piauí-amarelo);
     margin: 20px;
-    padding: 20px;
+    padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
 }
@@ -130,12 +130,7 @@ footer .footer-block {
     gap: 10px;
 }
 
-/* footer .city-name {
-    font-size: 1rem;
-    font-weight: bold;
-    color: var(--piauí-branco);
-    font-family: "PT Sans", sans-serif;
-} */
+
 
 footer .social-buttons .social-btn {
     display: inline-block;
@@ -314,8 +309,8 @@ a:hover {
 
     .card {
         margin: 10px 0;
-        padding: 12px;
-        border-radius: 8px;
+        padding: 15px;
+        border-radius: px;
     }
 
     .card ul li, .card ol li {
